@@ -13,7 +13,6 @@ const nikita = {
         devOps: ["Docker🐳", "Nginx"],
         databases: ["mongo", "MySql"],
         misc: ["Socket.IO", "php", "Python", "C++"]
-    },
-    architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"]
+    }
 };
 ```
