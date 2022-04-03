@@ -1,16 +1,18 @@
 ### Hi there 👋
 
-<!--
-**bryzZz/bryzZz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```javascript
+const nikita = {
+    whatIDo: "web dev",
+    technologies: {
+        frontEnd: {
+            "layouts": ["html", "pug", "css", "scss"],
+            "javaScript": ["React", "Redux"]
+        },
+        backEnd: ["Node", "Express"],
+        devOps: ["Docker🐳", "Nginx"],
+        databases: ["mongo", "MySql"],
+        misc: ["Socket.IO", "php", "Python", "C++"]
+    },
+    architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"]
+};
+```
