@@ -2,7 +2,7 @@
 Я Никита, студент из Иркутска, занимаюсь веб разработкой.
 
 ## Skills
-- ⚙️ JavaScript, React, Redux
+- ⚙️ JavaScript, React, Redux, Mobx, MST
 - 👁️ SASS, CSS, CSS in JS
 - 💽 MySQL, SQL, Mongo
 
