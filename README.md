@@ -1,8 +1,8 @@
 ## Hi there 👋
-Я Никита, студент из Иркутска, занимаюсь веб разработкой.
+Я Никита, занимаюсь веб разработкой.
 
 ## Skills
-- ⚙️ JavaScript, React, Redux, Mobx, MST, Electron
+- ⚙️ TypeScript, React, Redux, Mobx, MST, Electron
 - 👁️ SASS, CSS, CSS in JS, Tailwind
 - 💽 MySQL, SQL, Mongo
 
